@@ -10,7 +10,7 @@ import { Neo4jModule } from './neo4j/neo4j.module';
       host: 'localhost',
       port: 7687,
       username: 'neo4j',
-      password: 'neo',
+      password: 'movies',
     })
   ],
   controllers: [AppController],
